@@ -12,7 +12,7 @@ onMounted(()=>{
 })
 </script>
 <template>
-  <div id="root" class="root-BG">
+  <div id="root" :class="`root-BG lang-${store.state.lang}`" >
     <router-view></router-view>
   </div>
 </template>

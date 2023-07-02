@@ -4,6 +4,7 @@ import router from '@/router.js'
 
 export default createStore({
   state: {
+    lang:"en"
   },
   mutations: {
     
