@@ -373,7 +373,7 @@ state.chartInstance.setOption(state.chartOption,true);
 }
 
 onMounted(()=>{
-  httpGetMap("/static/maps/","shenyangCN.json").then((res)=>{
+  httpGetMap("/static/maps/","shenyangHK.json").then((res)=>{
     console.log("mapRes",res);
     state.chartData.alladcode=res;
     state.chartData.geoJson=res;
