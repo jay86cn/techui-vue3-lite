@@ -126,11 +126,11 @@ Therefore, it can be said to be the best and cost-effective partner for a start-
 
 #### Specific tasks that can be done
 
-- UI design drawings
+- UI design
 - Planning and design of products and projects
 - Visualization project development
 - GEO project development (echarts+geojson+online map)
 - Rust development of WASM modules
 - Any type of business system
-- Mobile development
+- APP development
 - Documentation compilation
