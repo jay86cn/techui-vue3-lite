@@ -10,11 +10,11 @@ const state=reactive({
     backgroundName:"A2",
     chartCount:5,
     backgroundConfig:{
-      colorA:$c.wh,
-      colorB:$c.wh,
-      colorC:$c.wh,
-      colorX:$c.bk.replace("#","%23"),
-      colorXOpacity:0.03,
+      vectorBGA:$c.wh,
+      vectorBGB:$c.wh,
+      vectorBGC:$c.wh,
+      vectorBGX:$c.bk.replace("#","%23"),
+      vectorBGXOpa:0.03,
     }
   }
 })

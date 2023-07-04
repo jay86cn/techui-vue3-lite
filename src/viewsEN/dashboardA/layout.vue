@@ -51,7 +51,6 @@ const state=reactive({
       {id:"r2",title:"Task Completion",component:"echartGaugeTriple",border:"aYinTechBorderA1",hideTitle:true},
       {id:"r3",title:"Business Profit",component:"echartSunburst",border:"aYinTechBorderA1"},
     ]},
-    
   ]
       
 })

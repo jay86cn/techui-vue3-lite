@@ -4,9 +4,9 @@ const router = useRouter();
 const store = useStore();
 const inited=ref(false)
 const nav=[
-  {label:"Document",path:"/dashboardA"},
-  {label:"Demo",path:"/dashboardB"},
-  {label:"Premium",path:"/dashboardC"},
+  {label:"Document",path:"http://lite.techui.net/docs"},
+  {label:"Gtihub",path:"https://github.com/ayin86/techui-vue3-lite"},
+  {label:"Premium",path:"http://techui.net/docs/"},
 ]
 
 const langs=[
@@ -15,18 +15,18 @@ const langs=[
   {label:"English",value:"en"},
 ]
 
-const goToRouter=(item)=>{
-  router.push(item.path);
+const goToLink=(item)=>{
+  window.open(item.path);
 }
 
 const changLang=(item)=>{
   store.state.lang=item.value
   if(item.value=='cn'){
-    router.push("/dashboardA-cn");
+    router.push("/components-cn");
   }else if(item.value=='hk'){
-    router.push("/dashboardA-hk");
+    router.push("/components-hk");
   }else if(item.value=='en'){
-    router.push("/dashboardA-en");
+    router.push("/components-en");
   }
 }
 
@@ -38,7 +38,7 @@ onMounted(() => {
 <template>
   <div :class="`external-wrap ${inited&&'inited'}`" >
     <div class="link-wrap">
-      <div class="item" @click="goToRouter(item)" v-for="item in nav">
+      <div class="item" @click="goToLink(item)" v-for="item in nav">
       {{ item.label }}
       </div>
     </div>
