@@ -99,6 +99,13 @@
 
 -----
 
+## 🛠️兼容性和Nodejs版本
+
+1. nodejs 16-18 支持良好其他版本未測試
+2. 除IE外的主流瀏覽器均支持良好，包括移動端瀏覽器。
+
+-----
+
 ## 🌟合作洽談
 
 Lite版本框架免費使用，不提供任何技術支持，遇到問題請在github提交issues，或者添加[TechUI Telgram](https://t.me/+RJZ4cmDrcCFmNWNl)討論群組。

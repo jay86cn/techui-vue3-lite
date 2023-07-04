@@ -85,16 +85,19 @@ Note: The SVG material and code in the framework are limited to use in the frame
 
 
 -----
-
-
-
-
 ## 📖Installation Tutorial
 
 1. `cnpm i` installs dependencies
 2. `npm run dev` starts the project and you can preview it
 
 For the introduction and usage of the development kit, please refer to [Documentation](https://techui.net/docs)
+
+-----
+
+## 🛠️ Compatibility and Nodejs Versions
+
+1. nodejs 16-18 well supported other versions not tested
+2. well supported by all major browsers except IE, including mobile browsers.
 
 -----
 
