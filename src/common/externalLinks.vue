@@ -22,11 +22,11 @@ const goToLink=(item)=>{
 const changLang=(item)=>{
   store.state.lang=item.value
   if(item.value=='cn'){
-    router.push("/components-cn");
+    router.push("/dashboardA-cn");
   }else if(item.value=='hk'){
-    router.push("/components-hk");
+    router.push("/dashboardA-hk");
   }else if(item.value=='en'){
-    router.push("/components-en");
+    router.push("/dashboardA-en");
   }
 }
 
