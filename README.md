@@ -114,3 +114,29 @@ WhatsApp scan the QR code below.
 Or contact me via Telegram [@ayin86cn](https://t.me/ayin86cn)
 
 You can also contact me via email ayin86cn@gmail.com I will check my email every 1-3 days
+
+
+-----
+
+## ❤️ What I can offer
+
+The author, a UI designer turned front-end developer, has been in the business for 15 years, and can take on most of the responsibilities and do most of the work in a project or product development, except for the back-end development responsibility, all other work can be done by one person.
+
+Therefore, it can be said to be the best and cost-effective partner for a start-up company, welcome to discuss cooperation. I hope to find a stable and long-term remote job.
+
+#### Responsibilities
+
+- Front-end development
+- UI design
+- Product Manager
+
+#### Specific tasks that can be done
+
+- UI design drawings
+- Planning and design of products and projects
+- Visualization project development
+- GEO project development (echarts+geojson+online map)
+- Rust development of WASM modules
+- Any type of business system
+- Mobile development
+- Documentation compilation
