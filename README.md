@@ -26,19 +26,19 @@ Note: The SVG material and code in the framework are limited to use in the frame
 
 **Data Screen A**
 
-<img src="./demoImage/dashboardA-HK.png" style="border-radius:10px" width="800" />
+<img src="./demoImage/dashboardA-EN.png" style="border-radius:10px" width="800" />
 
 **Data Screen B**
 
-<img src="./demoImage/dashboardB-HK.png" style="border-radius:10px" width="800" />
+<img src="./demoImage/dashboardB-EN.png" style="border-radius:10px" width="800" />
 
 **Data Screen C**
 
-<img src="./demoImage/dashboardC-HK.png" style="border-radius:10px" width="800" />
+<img src="./demoImage/dashboardC-EN.png" style="border-radius:10px" width="800" />
 
 **Data Screen D**
 
-<img src="./demoImage/dashboardD-HK.png" style="border-radius:10px" width="800" />
+<img src="./demoImage/dashboardD-EN.png" style="border-radius:10px" width="800" />
 
 
 **For more demos, please refer to [TechUI-Lite-Demo](https://lite.techui.net/)**
