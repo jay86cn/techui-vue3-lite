@@ -3,7 +3,7 @@
 <h1 align="center">
 <b>TechUI-lite 开发包</b>
 </h1>
-<div align="center">TechUI-lite是一款免费简单易用的可视化大屏开发框架，基于vite+vue3开发</div>
+<div align="center">TechUI-lite是一款免费简单易用的动态SVG可视化大屏开发框架，基于vite+vue3开发</div>
 
 <p align="center">
   <a href="https://lite.techui.net/docs">文档</a> •
@@ -62,7 +62,7 @@
 
   面对企业级的拼接屏，我们有着非常多的展现方案，可以根据客户的拼接屏设备情况进行定制开发。在任意设备下均可以达到最佳的展现效果。
 
-- **🧩去位图化全面使用SVG**
+- **🧩去位图化全面使用动态SVG**
 
   全面矢量化（去位图化），因可视化大屏的特殊使用场景，采用传统位图的情况图形放大细节模糊，而采用矢量图细节缩放后还能保持原来的细节清晰度。
 

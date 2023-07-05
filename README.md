@@ -3,7 +3,7 @@
 <h1 align="center">
 <b>TechUI-lite Development Kit</b>
 </h1>
-<div align="center">TechUI-lite is a free and easy to use Data Visualization Dashboard development tool, based on vite + vue3 development</div>
+<div align="center">TechUI-lite is a free and easy to use Dynamic SVG Data Visualization Dashboard development tool, based on vite + vue3 development</div>
 
 <p align="center">
    <a href="https://lite.techui.net/docs">Documentation</a> •
@@ -20,7 +20,6 @@
 There is also a paid Premium version, which provides more powerful features, related documentation and demos please visit here [TechUI-Premium](https://techui.net/docs)
 
 Note: The SVG material and code in the framework are limited to use in the framework, please do not extract them for other purposes.
-
 
 **This development kit has 4 built-in data screens, as shown in the figure below.**
 
@@ -61,7 +60,7 @@ Note: The SVG material and code in the framework are limited to use in the frame
 
    In the face of enterprise-level splicing screens, we have a lot of display solutions, which can be customized and developed according to the customer's splicing screen equipment. The best display effect can be achieved under any device.
 
-- **🧩De-bitmapping full use of SVG**
+- **🧩De-bitmapping full use of Dynamic SVG**
 
    Comprehensive vectorization (de-bitmapping), due to the special use scene of large-screen visualization, the details of graphics are blurred when traditional bitmaps are used, but the original detail clarity can be maintained after zooming in on vector graphics.
 
