@@ -109,7 +109,9 @@ Lite版本框架免费使用，不提供任何技术支持，遇到问题请在g
 
 数据可视化TechGroupQQ群:119059920 技术交流
 
+或者添加 [TechUI discord](https://discord.gg/JXgn5Gq2)讨论群组。
 
+或者添加 [TechUI Telgram](https://t.me/+RJZ4cmDrcCFmNWNl)讨论群组。
 
 对于付费服务，如定制开发、技术支持，或购买高级许可证，请通过以下联系方式与我联系
 

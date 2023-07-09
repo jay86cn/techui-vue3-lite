@@ -102,7 +102,11 @@ For the introduction and usage of the development kit, please refer to [Document
 
 ## 🌟 Cooperation negotiation
 
-The Lite version framework is free to use and does not provide any technical support. If you encounter any problems, please submit issues on github, or add [TechUI Telgram](https://t.me/+RJZ4cmDrcCFmNWNl) discussion group.
+The Lite version framework is free to use and does not provide any technical support. If you encounter any problems, please submit issues on github。
+
+Or add [TechUI discord](https://discord.gg/JXgn5Gq2) to the discussion group.
+
+Or add [TechUI Telgram](https://t.me/+RJZ4cmDrcCFmNWNl) to the discussion group.
 
 For paid services, such as custom development, technical support, or purchasing a premium license, please contact me via the following contact information
 

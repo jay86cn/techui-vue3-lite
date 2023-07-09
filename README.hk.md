@@ -108,7 +108,11 @@
 
 ## 🌟合作洽談
 
-Lite版本框架免費使用，不提供任何技術支持，遇到問題請在github提交issues，或者添加[TechUI Telgram](https://t.me/+RJZ4cmDrcCFmNWNl)討論群組。
+Lite版本框架免費使用，不提供任何技術支持，遇到問題請在github提交issues。
+
+或者添加 [TechUI discord](https://discord.gg/JXgn5Gq2)討論群組。
+
+或者添加 [TechUI Telgram](https://t.me/+RJZ4cmDrcCFmNWNl)討論群組。
 
 對於付費服務，如定制開發、技術支持，或購買高級許可證，請通過以下聯繫方式與我聯繫
 
