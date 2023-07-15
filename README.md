@@ -17,6 +17,10 @@
 
 **techUI-Lite framework is completely free, free to use without restrictions, its core files are non-open source and published on NPM server**
 
+**If you find this framework helpful to you, please give me a star, I will be more motivated to develop more free frameworks. I have so many great ideas.**
+
+**If the number of stars reaches 500, I will downgrade the premium version of adaptivePanel to the lite version.**
+
 There is also a paid Premium version, which provides more powerful features, related documentation and demos please visit here [TechUI-Premium](https://techui.net/docs)
 
 Note: The SVG material and code in the framework are limited to use in the framework, please do not extract them for other purposes.
