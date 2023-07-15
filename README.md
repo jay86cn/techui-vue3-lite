@@ -19,7 +19,7 @@
 
 **If you find this framework helpful to you, please give me a star, I will be more motivated to develop more free frameworks. I have so many great ideas.**
 
-**If the number of stars reaches 500, I will downgrade the premium version of adaptivePanel to the lite version.**
+**If the number of stars reaches 500, I will transplant the premium version of adaptivePanel to the lite version.**
 
 There is also a paid Premium version, which provides more powerful features, related documentation and demos please visit here [TechUI-Premium](https://techui.net/docs)
 
