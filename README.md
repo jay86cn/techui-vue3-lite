@@ -13,6 +13,9 @@
    <a href="https://t.me/ayin86cn">Telgram</a>
 </p>
 
+## 💖Need A Remote Job
+**I am planning to quit my job and if anyone can offer a long term remote job, please contact me. All my skills and frameworks are free to use if a partnership is reached.**
+
 ## 🛡️ Announcements
 
 **techUI-Lite framework is completely free, free to use without restrictions, its core files are non-open source and published on NPM server**
