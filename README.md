@@ -30,6 +30,8 @@ Note: The SVG material and code in the framework are limited to use in the frame
 
 **This development kit has 4 built-in data screens, as shown in the figure below.**
 
+<img src="./demoImage/techui-vue3-lite.gif" style="border-radius:10px" width="800" />
+
 **Data Screen A**
 
 <img src="./demoImage/dashboardA-EN.png" style="border-radius:10px" width="800" />
