@@ -29,6 +29,10 @@
 
 **本开发包内置4个数据屏，如下图。**
 
+**演示GIF动画**
+
+<img src="./demoImage/techui-vue3-lite.gif" style="border-radius:10px" width="800" />
+
 **数据屏A**
 
 <img src="./demoImage/dashboardA-CN.png" style="border-radius:10px" width="800" />
