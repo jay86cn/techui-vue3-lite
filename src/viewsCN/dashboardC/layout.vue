@@ -96,8 +96,8 @@ onMounted(()=>{
   <div class="screen1080C">
     <mainNav></mainNav>
     <externalLinks></externalLinks>
-    <div :class="`area-box area-${area.name}`" v-for="area in areas">
-      <div class="portlet-wrapper" v-for="(item,index) in area.portlets">
+    <div :class="`area-box area-${area.name}`" v-for="area in areas" :key="area.id">
+      <div class="portlet-wrapper" v-for="item in area.portlets" :key="item.id">
         <component v-if="item.border" :is='item.border'>
           <panelTitleB1 v-if="!item.hideTitle" :config="panelTitleConfig">{{item.title}}</panelTitleB1>
           <component :is='comps[item.component]' ></component>
