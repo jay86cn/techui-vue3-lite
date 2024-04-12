@@ -61,7 +61,6 @@ const processOption=()=>{
             target=state.chartData.data[i]
           }
         }
-        
         return "{a|"+name+"}"+" "+"{b|"+target+"}"
       },
       textStyle:{

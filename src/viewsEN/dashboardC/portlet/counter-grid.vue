@@ -2,9 +2,9 @@
 const state=reactive({
   arry:[
     {title: "Software sales", icon: "i carbon:ibm-z-cloud-mod-stack", unit: "10,000 yuan", total: "1874"},
-     {title:"Hardware sales",icon:"i carbon:chip",unit:"10,000 yuan",total:"3276"},
-     {title:"Technical Services",icon:"i carbon:user-speaker",unit:"10,000 yuan",total:"315"},
-     {title:"Security Service",icon:"i carbon:rule",unit:"10,000 yuan",total:"769"},
+    {title:"Hardware sales",icon:"i carbon:chip",unit:"10,000 yuan",total:"3276"},
+    {title:"Technical Services",icon:"i carbon:user-speaker",unit:"10,000 yuan",total:"315"},
+    {title:"Security Service",icon:"i carbon:rule",unit:"10,000 yuan",total:"769"},
   ],
 })
 
