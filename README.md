@@ -8,7 +8,7 @@
 
 ## 📢 Important Announcement: TechUI-Vue3-Lite been deprecated
 
-The **TechUI-Vue3-Lite** component library has been deprecated and is now superseded by the brand-new **TechUI-Scifi(Vue)** component library.
+The **TechUI-Vue3-Lite** component library has been deprecated and is now superseded by the brand-new **TechUI-Scifi** component library.
 
 TechUI-Scifi is A free, dynamic SVG UI component library for creating sci-fi, futuristic UI interfaces, built on Vue 3.
 
@@ -29,7 +29,7 @@ TechUI-Scifi is A free, dynamic SVG UI component library for creating sci-fi, fu
 
 ## 📢 重要通知：TechUI-Vue3-Lite 现已废弃
 
-**TechUI-Vue3-Lite** 组件库现已废弃，已被全新的 **TechUI-Scifi(Vue3)** 组件库所取代。
+**TechUI-Vue3-Lite** 组件库现已废弃，已被全新的 **TechUI-Scifi** 组件库所取代。
 
 TechUI-Scifi 一个免费的、动态的 SVG UI 组件库,用于绘制科幻、未来风格的UI界面，基于 Vue 3 开发。
 
